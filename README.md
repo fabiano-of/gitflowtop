@@ -1,3 +1,3 @@
 # gitflowtop
 
-Alteracao feita direto no Github. (1)
+Alteracao feita direto no Github.
